@@ -2,7 +2,7 @@ repo_name: sidduganeshsid/WeatherApp
 report_id: cf6f7abc0772774f5ce8f217d6d5404f
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-02T05:45:32+00:00'
+timestamp: '2024-02-29T19:51:39+00:00'
 requested_by: sidduganeshsid
 provider: github
 branch: main
@@ -251,7 +251,7 @@ tools:
   last_updated_by: sidduganeshsid
   last_updated_on: 2023-06-02 10:33:59.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   open_source: true
   hosted_saas: false
@@ -339,7 +339,7 @@ tools:
   last_updated_by: sidduganeshsid
   last_updated_on: 2023-06-02 10:33:59.000000000 Z
 - name: Gun
-  description: 'Self-hosted Firebase. '
+  description: Self-hosted Firebase.
   website_url: http://gun.js.org/#step1
   open_source: true
   hosted_saas: false
@@ -623,7 +623,7 @@ tools:
   last_updated_by: sidduganeshsid
   last_updated_on: 2023-06-02 10:33:59.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.0.5
   license: MIT
@@ -701,7 +701,7 @@ tools:
   last_updated_by: sidduganeshsid
   last_updated_on: 2023-06-02 10:33:59.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 6.3.3
   license: MIT
